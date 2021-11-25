@@ -66,6 +66,8 @@ var sprites = [
     new Sprite('Play skill mark', '34', 'PlaySkillMark', 'img/sprites/PlaySkillMark.png', 'Card Effect'),
     // new Sprite('Void', 2, '', 'img/sprites/Void.png', 'Region'),
     // new Sprite('Zaun', 20, '', 'img/sprites/Zaun.png','Region'),
-    new Sprite('Bandle city', 26, '', 'img/sprites/BandleCity.png', 'Region'),
+    // new Sprite('Bandle city', '26', 'img/sprites/BandleCity.png', 'Region'),
+    // new Sprite ('Impact', '' , 'img/sprites/Impact.png', 'Keyword'),
+    // new Sprite ('Stack', '' , 'img/sprites/ImpactStack.png', 'Card Effect'),
     new Sprite('Augment', '4', 'Augment', 'img/sprites/Augment.png', 'Unknown'),
 ];
