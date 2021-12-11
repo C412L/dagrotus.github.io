@@ -16,7 +16,7 @@ var sprites = [
     new Sprite('Bilgewater', 52, 'Bilgewater', 'img/sprites/Bilgewater.png', 'Region'),
     new Sprite('Noxus', 56, 'Noxus', 'img/sprites/Noxus.png', 'Region'),
     new Sprite('Shurima', 35, 'Shurima', 'img/sprites/Shurima.png', 'Region'),
-    new Sprite('All regions', 51, 'AllFactions', 'img/sprites/AllFactions.png', 'Region'),
+    new Sprite('All regions', 51, 'Neutral', 'img/sprites/AllFactions.png', 'Region'),
     new Sprite('Ionia', 55, 'Ionia', 'img/sprites/Ionia.png', 'Region'),
     new Sprite('Targon', 43, 'Targon', 'img/sprites/Targon.png', 'Region'),
     new Sprite('Level up: half', 10, 'ChampLevelUpIcon2', 'img/sprites/ChampLevelUpIcon2.png', 'Levelup'),
@@ -68,4 +68,6 @@ var sprites = [
     // new Sprite('Zaun', 20, '', 'img/sprites/Zaun.png','Region'),
     // new Sprite('Bandle city', 26, '', 'img/sprites/BandleCity.png', 'Region'),
     new Sprite('Augment', 4, 'Augment', 'img/sprites/Augment.png', 'Keyword'),
+    //new Sprite('Impact', '', 'PlaySkillMark', 'img/sprites/Impact.png', 'Card Effect'),
+    //new Sprite('Fated', '', 'PlaySkillMark', 'img/sprites/Fated.png', 'Card Effect'),
 ];
